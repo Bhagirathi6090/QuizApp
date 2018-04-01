@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="who_is_the_prime_minister_of_india">Who is the prime minister of india?</string>
+    <string name="_1_who_is_the_prime_minister_of_india">1. who is the prime minister of india?</string>
+    <string name="raju_musuri">Raju Musuri</string>
+    <string name="narendra_modi">Narendra Modi</string>
+    <string name="chandan_sahoo">Chandan sahoo</string>
+    <string name="dharmendra_kumar">Dharmendra Kumar</string>
+    <string name="quiz_header">Let\'s have some Techie Quiz</string>
+    <string name="let_s_have_some_techie_quiz">Let\'s have some techie quiz</string>
+    <string name="check">check</string>
+    <string name="the_idiocy_of_technology">The Idiocy of Technology</string>
+    <string name="photoshop">Photoshop</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="tez">Tez</string>
+    <string name="snapchat">Snapchat</string>
+    <string name="instagram">Instagram</string>
+    <string name="_1_which_app_is_created_by_google">1.Which app is created by Google?</string>
+    <string name="_2_google_parent_company_is">2.Google parent company is?</string>
+    <string name="waymo">Waymo</string>
+    <string name="alphabet">Alphabet</string>
+    <string name="calico">Calico</string>
+    <string name="firebase">Firebase</string>
+    <string name="_3_android_studio_is_an">3.Android studio is an?</string>
+    <string name="text_editor">Text editor</string>
+    <string name="ide">IDE</string>
+    <string name="word_processor">Word processor</string>
+    <string name="_4_iot_stands_for">4.IOT stands for?</string>
+    <string name="international_object_transportation">International Object Transportation</string>
+    <string name="internet_of_things">Internet Of Things</string>
+    <string name="intranet_of_things">Intranet of Things</string>
+    <string name="_5_java_is_popular_for">5.Java is popular for?</string>
+    <string name="portability">Portability</string>
+    <string name="robust">Robust</string>
+    <string name="compatibility">Compatibility</string>
+    <string name="platform_independence">Platform Independence</string>
+    <string name="_6_which_is_not_part_of_an_computer">6.Which is not part of an computer?</string>
+    <string name="sata_pata">Sata pata</string>
+    <string name="wifi_card">Wifi card</string>
+    <string name="ups">UPS</string>
+    <string name="registers">Registers</string>
+
+</resources>
